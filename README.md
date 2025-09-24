@@ -1,7 +1,8 @@
 # IAmPetru
 
 **`Software Developer | Cybersecurity Analyst | Web 3.0`**
-
+- 24/7 CTF player
+- Living on bug bounties
 
    <p>
       <a href="https://github.com/iampetru?tab=followers">
